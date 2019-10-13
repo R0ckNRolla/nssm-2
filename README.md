@@ -1,7 +1,7 @@
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## REPO INFORMATION
-This was imported from [https://git.nssm.cc/nssm/nssm/src/master]https://git.nssm.cc/nssm/nssm/src/master
+This was imported from [https://git.nssm.cc/nssm/nssm/src/master](https://git.nssm.cc/nssm/nssm/src/master)
 on 2019-10-13 which had only `master` and no tags. 
 
 ## ORIGINAL README TEXT FROM [nssm](https://git.nssm.cc/nssm/nssm/src/master/README.txt) AS OF 2019-10-13:
