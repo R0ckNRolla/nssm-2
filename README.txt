@@ -1,3 +1,5 @@
+** ORIGINAL README TEXT FROM NSSM (https://git.nssm.cc/nssm/nssm/src/master/README.txt) AS OF 2019-10-13**
+
 NSSM: The Non-Sucking Service Manager
 Version 2.24, 2014-08-31
 
